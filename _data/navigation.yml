@@ -1,7 +1,7 @@
 # main links links
 main:
-  - title: "CV"
-    url: /files/CV Leila Malihi-research 4 without number (8).pdf
+  #- title: "CV"
+    #url: /files/CV Leila Malihi-research 4 without number (8).pdf
     
   - title: "Publications"
     url: /publications/
